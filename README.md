@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boris
 
 ## About Me
- After discovering the programation on my owm in 2020, I decided to go for Le Reacteur a Coding bootcamp in 2022, where I review basics of programiming front-end, back-end and also React.
+ After discovering the programation on my owm in 2020, I decided to go for Le Reacteur Coding bootcamp in 2022, where I review basics of programiming front-end, back-end and also React.
 I'm currently continuing my journey into web developement, and I'm open to new challenges.
 
 ## Languages
